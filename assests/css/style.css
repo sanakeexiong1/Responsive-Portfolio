@@ -1,0 +1,183 @@
+
+.name p {
+    background-color: #4aaaa5;
+    display: inline;
+    padding: 1%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-size: 24px;
+    
+}
+
+header {
+    background-color: #ffffff;
+    border-bottom-color: #cccccc;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    width: 100%;
+    padding-top: 1%;
+    padding-left: 15%;
+}
+
+.topnav {
+    overflow: hidden;
+}
+
+.topnav p {
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.contentHolder {
+    width: 960px;
+    height: 500px;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    margin-top: 2%;
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: 2px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+p.intro {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    display: inline-block;
+    width: 700px;
+    height: 100px;
+    padding: 10px;
+}
+
+.family {
+    width: 150px;
+    height: 200px;
+}
+
+#class {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2017/01/18/15/51/paper-1990111_1280.jpg);
+}
+
+h1 {
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 30px;
+    color: #4aaaa5;
+    border-bottom: darkgray;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
+
+p.footer {
+    text-align: center;
+    background-color: darkgray;
+    border-top-color: #4aaaa5;
+    border-top-style: solid;
+    border-top-width: 8px;
+    height: 50px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+p.given {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+p.input {
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: 1px;
+    font-size: 12px;
+    padding: 8px;
+    margin: 2px;
+}
+
+p.inputMessage {
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: 1px;
+    font-size: 12px;
+    padding: 8px;
+    margin: 2px;
+    height: 100px;
+}
+
+p.submit {
+    background-color: #4aaaa5;
+    display: inline;
+    padding: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 10px 0px 0px 0px;
+}
+
+.column {
+    float: left;
+    width: 250px;
+    padding: 5px;
+  }
+  
+.centered {
+    position: absolute;
+    top: 52%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+    background-color: #4aaaa5;
+    width: 250px;
+    text-align: center;
+}
+
+.centeredDurian {
+    position: absolute;
+    top: 52%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+    background-color: #4aaaa5;
+    width: 250px;
+    text-align: center;
+}
+
+.centeredHibiscus {
+position: absolute;
+top: 52%;
+left: 61%;
+transform: translate(-50%, -50%);
+background-color: #4aaaa5;
+width: 250px;
+text-align: center;
+}
+
+.centeredFox{
+    position: absolute;
+    bottom: 20%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+    background-color: #4aaaa5;
+    width: 250px;
+    text-align: center;
+}
+
+.centeredCherry {
+    position: absolute;
+    bottom: 20%;
+    left: 61%;
+    transform: translate(-50%, -50%);
+    background-color: #4aaaa5;
+    width: 250px;
+    text-align: center;
+}
+
